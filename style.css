@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(227, 235, 250);
+}
+body ::selection{
+   background-color: rgb(89, 180, 180);
+}
+.Heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}.textarea{
+    background: cornsilk;
+    font-size: 1vw;
+    width: 80vw;
+    height: 30vw;
+    padding: 1vw;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cutout{
+    position:absolute;
+    top: 10%;
+    background: rgb(255, 166, 184);
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    font-family:fantasy;
+}
+.button{
+    width: 7vw;
+    height: 2vw;
+    background-color: rgb(185, 153, 185);
+    font-size: 1vw;
+    text-shadow: 1px 1px rgb(102, 84, 102);
+}
+.rep{
+    position:absolute;
+    top: 7%;
+    right: 12%;
+}
+.rep2{
+    position:absolute;
+    top: 32%;
+    right: 1%;
+}
+.cutout2{
+    position:absolute;
+    top: 35%;
+
+    background: rgb(255, 166, 184);
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    font-family:fantasy;
+}
